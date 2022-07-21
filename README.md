@@ -1,2 +1,2 @@
-# python_practice
+# python practice! 
 Practice 'Baekjoon Online Judge' questions
