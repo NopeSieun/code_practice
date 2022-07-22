@@ -1,2 +1,2 @@
 # python practice! 
-Practice 'Baekjoon Online Judge' questions
+Practice 'BOJ' questions
