@@ -1,2 +1,2 @@
-# python practice! 
+# practice! 
 Practice 'BOJ' questions
