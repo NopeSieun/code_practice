@@ -1,4 +1,4 @@
-# [Bronze I] 단어 공부 - 1157 
+# [Bronze I] 단어 공부 - 1157 (까다로웠다..!)
 
 [문제 링크](https://www.acmicpc.net/problem/1157) 
 
